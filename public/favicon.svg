@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
+  <title>GraphCam</title>
+  <style>:root { --brand: oklch(0.54 0.215 262); --surface: oklch(1 0 0); }</style>
+  <rect width="32" height="32" rx="7" fill="var(--surface)"/>
+  <g stroke="var(--brand)">
+    <rect x="3" y="6" width="26" height="23" rx="6" stroke-width="2"/>
+    <path d="M11 6l2-3h6l2 3M8 23c3 0 3-12 8-12s5 12 8 12" stroke-width="2" stroke-linecap="round"/>
+    <path d="M7 17h18M16 9v17" stroke-width="1" opacity=".35"/>
+  </g>
+</svg>
